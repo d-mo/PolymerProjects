@@ -144,6 +144,7 @@ Sorted alphabetically
 | [![Mashme.io](https://www.google.com/s2/favicons?domain=https://www.mashme.io)](https://www.mashme.io) | Mashme.io | `1.11` | | |
 | [![Meatscope](https://www.google.com/s2/favicons?domain=https://meatscope.camera)](https://meatscope.camera) | Meatscope | `1.5` | ✅ | [Source](https://github.com/cdata/meat-scope) |
 | [![Meta Gestione Scuola (demo)](https://www.google.com/s2/favicons?domain=https://demo.metags.it)](https://demo.metags.it) | Meta Gestione Scuola (demo) | `1.9` | | |
+| [![Mist.io](https://mist.io/ui/assets/logo-32.png)](https://mist.io) | Mist.io multi-cloud management platform | `1.11` | | [Source](https://github.com/mistio/mist.ui) |
 | [![Net-a-Porter](https://www.google.com/s2/favicons?domain=https://www.net-a-porter.com)](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [![Ola Cabs](https://www.google.com/s2/favicons?domain=https://www.olacabs.com)](https://www.olacabs.com) | Ola Cabs | `1.9` | ✅ | |
 | [![Oak Tavern](https://www.google.com/s2/favicons?domain=https://albion.oaktavern.cc)](https://albion.oaktavern.cc) | Oak Tavern | `2.0` | ✅ | |
